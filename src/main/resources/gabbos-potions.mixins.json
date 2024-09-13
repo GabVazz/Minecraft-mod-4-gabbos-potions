@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "com.gab.gabbospotions.mixin",
+	"compatibilityLevel": "JAVA_16",
+	"mixins": [
+		"LuckyDropMixin",
+        "OneShotEffectMixin",
+        "OneShotProjectileMixin",
+		"OneShotEggMixin",
+		"OneShotSnowballMixin",
+		"ExperiencePotionMixin",
+		"ExperiencePotionDrinkMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

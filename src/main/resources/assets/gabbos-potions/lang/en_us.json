@@ -1,0 +1,30 @@
+{
+  // Pozioni Bevibili
+  "item.minecraft.potion.effect.lucky_potion": "Lucky Items Potion",
+  "item.minecraft.potion.effect.one_shot_potion": "One Saitama Potion",
+  "item.minecraft.potion.effect.experience_potion_10": "Potion of 10 Experience Levels",
+  "item.minecraft.potion.effect.experience_potion_20": "Potion of 20 Experience Levels",
+  "item.minecraft.potion.effect.experience_potion_50": "Potion of 50 Experience Levels",
+  "item.minecraft.potion.effect.experience_potion_100": "Potion of 100 Experience Levels",
+
+  // Pozioni Splash
+  "item.minecraft.splash_potion.effect.lucky_potion": "Splash Lucky Items Potion",
+  "item.minecraft.splash_potion.effect.one_shot_potion": "Splash Saitama Potion",
+  "item.minecraft.splash_potion.effect.experience_potion_10": "Splash Potion of 10 Experience Levels",
+  "item.minecraft.splash_potion.effect.experience_potion_20": "Splash Potion of 20 Experience Levels",
+  "item.minecraft.splash_potion.effect.experience_potion_50": "Splash Potion of 50 Experience Levels",
+  "item.minecraft.splash_potion.effect.experience_potion_100": "Splash Potion of 100 Experience Levels",
+
+  // Pozioni Lingering
+  "item.minecraft.lingering_potion.effect.lucky_potion": "Lingering Lucky Items Potion",
+  "item.minecraft.lingering_potion.effect.one_shot_potion": "Lingering Saitama Potion",
+  "item.minecraft.lingering_potion.effect.experience_potion_10": "Potion of 10 Experience Levels",
+  "item.minecraft.lingering_potion.effect.experience_potion_20": "Potion of 20 Experience Levels",
+  "item.minecraft.lingering_potion.effect.experience_potion_50": "Potion of 50 Experience Levels",
+  "item.minecraft.lingering_potion.effect.experience_potion_100": "Potion of 100 Experience Levels",
+
+  // Descrizione degli Effetti
+  "effect.gabbos-potions.lucky": "Lucky Items",
+  "effect.gabbos-potions.one_shot": "Saitama Power",
+  "effect.gabbos-potions.experience_boost": "Experience Boost"
+}
